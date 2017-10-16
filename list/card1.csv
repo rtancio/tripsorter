@@ -1,0 +1,6 @@
+"Point From"," Point To"," Mode of Transpo"," Seat Number"," Gate Number"," Baggage belt number"," Ride Number"," Origin/Destination/Connection"
+"Madrid"," Barcelona"," Train"," 45B"," NA"," NA"," 78A"," Origin"
+"Barcelona"," Gerona Airport"," Bus"," NA"," NA"," NA"," Airport bus"," Connection"
+"Stockholm"," New York"," Plane"," 7B"," 22"," NA"," SK22"," Destination"
+"Gerona Airport"," Stockholm"," Plane"," 3A"," 45B"," 344"," SK455"," Connection"
+
